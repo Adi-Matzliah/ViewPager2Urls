@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Houzz Exam</string>
+    <string name="base_url">https://private-58ab56-mocks3.apiary-mock.com/</string>
+</resources>
